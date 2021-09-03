@@ -36,8 +36,7 @@ If the file is currently empty, paste the following:
 
 ```json
 {
-  "metrics-addr" : "127.0.0.1:9323",
-  "experimental" : true
+  "metrics-addr" : "127.0.0.1:9323"
 }
 ```
 
